@@ -35,8 +35,8 @@ I am currently looking for internship opportunities in the field of software eng
 
 <h2>How to reach me</h2>
 You can reach me on <br/>
-<a href="https://twitter.com/mankindjnr">Twitter</a> <br/>
-<a href="https://www.linkedin.com/in/amos-njoroge-9b1b3b1a0/">LinkedIn</a><br/>
+<a href="https://twitter.com/njorogeAmos94">X/Twitter</a> <br/>
+<a href="https://www.linkedin.com/in/amos-njoroge-kairu-a55558188/">LinkedIn</a><br/>
 <b>kamos8646@stu.kemu.ac.kemu</b>
 
 <footer>Mankindjnr</footer>
