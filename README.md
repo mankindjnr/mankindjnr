@@ -20,7 +20,7 @@ I am <b>Amos Njoroge</b>, a backend engineer who just graduated from ALX. I am c
 
  I am also working on a project called <a href="https://chama-zetu.onrender.com">chamaZetu</a> which is a chama management system that allows you to manage your chama activities online. It is still in its early stages.
 
- Outside the world of programming, I am a huge fan of Architecture, seeing the marvels of the world and how they were built is something that I really enjoy. I also a Formula 1 fan and I support the RedBull #teamVerstappen.
+ Outside the world of programming, I am a huge fan of Architecture, seeing the marvels of the world and how they were built is something that I really enjoy. I am also a Formula 1 fan and I support the RedBull #teamVerstappen.
 
  <h2>Achievements</h2>
 Completing the ALX program is one of my greatest achievements. I have also been able to build a couple of projects that I am really proud of. I have also been able to learn a lot of new technologies and I am still learning more.
@@ -29,4 +29,14 @@ Graduating from the <b>KamiLImu</b> mentorship program.
 
 leading <b>letsGoBig</b> savings group where in three years we have gone from saving ksh 400 a week to introducing REITs investments on top of our weekly savings.
 
-<footer>Mankindjnr</b>
+<!--I’m currently looking for-->
+<h2>Current</h2>
+I am currently looking for internship opportunities in the field of software engineering. I am also looking for opportunities to collaborate on projects that will help me grow as a developer.
+
+<h2>How to reach me</h2>
+You can reach me on <br/>
+<a href="https://twitter.com/mankindjnr">Twitter</a> <br/>
+<a href="https://www.linkedin.com/in/amos-njoroge-9b1b3b1a0/">LinkedIn</a><br/>
+<b>kamos8646@stu.kemu.ac.kemu</b>
+
+<footer>Mankindjnr</footer>
