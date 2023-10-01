@@ -39,4 +39,3 @@ You can reach me on <br/>
 <a href="https://www.linkedin.com/in/amos-njoroge-kairu-a55558188/">LinkedIn</a><br/>
 <b>kamos8646@stu.kemu.ac.kemu</b>
 
-<footer>Mankindjnr</footer>
